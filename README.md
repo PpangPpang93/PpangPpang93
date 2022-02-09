@@ -16,5 +16,4 @@
         src="http://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&link=https://heliotrope-composer-6a6.notion.site/Hwanki-Han-7002c82e35134977af1ddb79c01a241d"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a></p> 
-
-<img src="https://ghchart.rshah.org/219138/PpangPpang93"/>
+<h3 align="center"> <img src="https://ghchart.rshah.org/219138/PpangPpang93"/> </h3> 

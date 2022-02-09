@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=PPANGPPANG&fontSize=90)
-<p align="center"> Junior DataScientiest </p> 
+<h3 align="center"> Junior DataScientiest </h> 
 
 <h3 align="center"> 🛠Tech Stack🛠 </h3> 
 
